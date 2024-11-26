@@ -53,7 +53,7 @@ body {
 .nav .navlink1:hover{
     color: #404bbf
 }
-.nav .navlink:focus{
+.nav .navlink1:focus{
     color: #404bbf;
 }
 .navportf{
