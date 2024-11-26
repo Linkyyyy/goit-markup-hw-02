@@ -68,3 +68,6 @@ body {
 .adrlink:hover{
     color:#404bbf;
 }
+.adrlink:focus {
+    color: #404bbf;
+}
