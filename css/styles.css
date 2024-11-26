@@ -47,12 +47,12 @@ body {
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-.nav .navlink1{
+.nav .nav-link{
     color: #2e2f42;
 }
-.nav .navlink1:hover{
+.nav .nav-link:hover{
     color: #404bbf
 }
-.nav .navlink1:focus{
+.nav .nav-link:focus{
     color: #404bbf;
 }
