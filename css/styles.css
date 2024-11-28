@@ -69,6 +69,7 @@ body {
 .adrlink:focus{
     color:#404bbf;
 }
+/* #Hero Section */
 .hero-section {
     background-color: #2e2f42;
 }
@@ -97,3 +98,32 @@ body {
 background-color: #404BBF;
 cursor: pointer;
 }
+/* 2 Section */
+.second-sec-title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.second-sec-title-list{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+/* 3 Section */ 
+.team-section {
+    background-color: #F4F4FD;
+}
+
+.team-section-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+}
+
+
