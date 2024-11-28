@@ -65,9 +65,7 @@ body {
     color:#434455;
 
 }
-.adrlink:hover{
-    color:#404bbf;
-}
+.adrlink:hover,
 .adrlink:focus{
-    color: #404bbf;
+    color:#404bbf;
 }
