@@ -115,15 +115,12 @@ cursor: pointer;
 .team-section {
     background-color: #F4F4FD
 }
-
-.team-section-title {
-    text-transform: capitalize;
-    font-weight: 700;
+.tema-title{
     font-size: 36px;
     line-height: 1.11;
-letter-spacing: 0.02em;
-text-align: center;
-color: #2e2f42;
+    text-align: center;
+    text-transform: capitalize
+
 }
 .team-title-list{
     line-height: 1.5;
