@@ -115,6 +115,9 @@ cursor: pointer;
 .team-section {
     background-color: #F4F4FD
 }
+.image{
+    background-color: #FFFFFF;
+}
 .team-title{
     font-size: 36px;
     line-height: 1.11;
@@ -123,8 +126,6 @@ cursor: pointer;
     letter-spacing: 0.02em;
     color: #2e2f42;
     
-
-
 }
 .team-title-list{
     line-height: 1.5;
