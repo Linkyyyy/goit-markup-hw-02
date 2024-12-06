@@ -5,6 +5,13 @@ body {
         background-color: #FFFFFF;
 
 }
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
 .roboto-regular {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
